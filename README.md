@@ -9,6 +9,25 @@
 If you find our work useful for your research, please consider citing the following papers :)
 
 ```
+@inproceedings{10.1145/3297280.3297410,
+author = {Tariq, Shahroz and Lee, Sangyup and Kim, Hoyoung and Shin, Youjin and Woo, Simon S.},
+title = {GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images},
+year = {2019},
+isbn = {9781450359337},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3297280.3297410},
+doi = {10.1145/3297280.3297410},
+abstract = {Creating fake images such as replacing one's face with other person's face has become much easier due to the advancement of sophisticated image editing tools. In addition, Generative Adversarial Networks (GANs) enable creating natural looking human faces. However, fake images can cause many potential problems, as they can be misused to abuse information, hurt people, and generate fake identification. Therefore, detecting fake face images is critical for protecting individuals from various misuses. In this work, we propose an image forensic platform using neural networks, FakeFaceDetect, to detect various fake face images. In particular, we focus on detecting fake images automatically created from GANs as well as manually created by humans. In addition, we assume a strong adversary who can arbitrarily change and remove metadata of the original images. We demonstrate that FakeFaceDetect achieves high accuracy in detecting fake face images created by humans and GANs.},
+booktitle = {Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing},
+pages = {1296–1303},
+numpages = {8},
+location = {Limassol, Cyprus},
+series = {SAC '19}
+}
+```
+
+```
 @inproceedings{10.1145/3267357.3267367,
 author = {Tariq, Shahroz and Lee, Sangyup and Kim, Hoyoung and Shin, Youjin and Woo, Simon S.},
 title = {Detecting Both Machine and Human Created Fake Face Images In the Wild},
@@ -29,21 +48,4 @@ series = {MPS '18}
 ```
 
 
-```
-@inproceedings{10.1145/3297280.3297410,
-author = {Tariq, Shahroz and Lee, Sangyup and Kim, Hoyoung and Shin, Youjin and Woo, Simon S.},
-title = {GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images},
-year = {2019},
-isbn = {9781450359337},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3297280.3297410},
-doi = {10.1145/3297280.3297410},
-abstract = {Creating fake images such as replacing one's face with other person's face has become much easier due to the advancement of sophisticated image editing tools. In addition, Generative Adversarial Networks (GANs) enable creating natural looking human faces. However, fake images can cause many potential problems, as they can be misused to abuse information, hurt people, and generate fake identification. Therefore, detecting fake face images is critical for protecting individuals from various misuses. In this work, we propose an image forensic platform using neural networks, FakeFaceDetect, to detect various fake face images. In particular, we focus on detecting fake images automatically created from GANs as well as manually created by humans. In addition, we assume a strong adversary who can arbitrarily change and remove metadata of the original images. We demonstrate that FakeFaceDetect achieves high accuracy in detecting fake face images created by humans and GANs.},
-booktitle = {Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing},
-pages = {1296–1303},
-numpages = {8},
-location = {Limassol, Cyprus},
-series = {SAC '19}
-}
-```
+
