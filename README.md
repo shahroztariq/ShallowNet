@@ -4,7 +4,7 @@
 
 [Detecting Both Machine and Human Created Fake Face Images In the Wild](https://dl.acm.org/doi/abs/10.1145/3267357.3267367).
 
-[Detecting handcrafted facial image manipulations and GAN-generated facial images using Shallow-FakeFaceNet] (https://www.sciencedirect.com/science/article/pii/S1568494621001794)
+[Detecting handcrafted facial image manipulations and GAN-generated facial images using Shallow-FakeFaceNet](https://www.sciencedirect.com/science/article/pii/S1568494621001794)
 
 ## Citations
 
